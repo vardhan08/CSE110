@@ -1,1 +1,8 @@
 # Vardhan Agarwal
+![Alt text](me.jpg?raw=true "Profile Picture")
+
+Undergraduate Student, ** Computer Science and Engineering **
+Computer Science, Jacobs School of Engineering
+University of California, San Diego
+
+[** My Resume **](https://drive.google.com/file/d/10d2UGEMAEYO9L7KYhlQAViSk8x7Om6Wo/view)
