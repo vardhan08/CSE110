@@ -1,5 +1,5 @@
 # Vardhan Agarwal
-![Alt text](me.jpg?raw=true "Profile Picture")
+![Profile Picture](me.jpeg)
 
 Undergraduate Student, 
 [**Computer Science and Engineering**](https://cse.ucsd.edu/)
